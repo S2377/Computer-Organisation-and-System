@@ -1,0 +1,66 @@
+$date
+	Sun Feb 25 15:35:25 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_encoder $end
+$var wire 3 ! out_code [2:0] $end
+$var reg 8 " in_data [7:0] $end
+$scope module obj $end
+$var wire 8 # in_data [7:0] $end
+$var reg 3 $ out_code [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+bx "
+bx !
+$end
+#2
+b0 !
+b0 $
+b1 "
+b1 #
+#4
+b1 !
+b1 $
+b10 "
+b10 #
+#6
+b10 !
+b10 $
+b100 "
+b100 #
+#8
+b11 !
+b11 $
+b1000 "
+b1000 #
+#10
+b100 !
+b100 $
+b10000 "
+b10000 #
+#12
+b101 !
+b101 $
+b100000 "
+b100000 #
+#14
+b110 !
+b110 $
+b1000000 "
+b1000000 #
+#16
+b111 !
+b111 $
+b10000000 "
+b10000000 #
+#100
